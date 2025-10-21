@@ -1,6 +1,8 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color:CornflowerBlue;
+  font-family:Helvetica;
 }
 canvas {
   display: block;
@@ -13,6 +15,7 @@ canvas {
 }
 
 .pinkButton{
+  display:block;
   color:pink;
   background:purple;
   border:5px;
